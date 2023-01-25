@@ -17,7 +17,7 @@ spec:
         api: external
     spec:
       containers:
-      - image: alexanderwienekelyth/udagram-frontend:v2
+      - image: alexanderwienekelyth/udagram-frontend:v3
         name: udagram-frontend
         imagePullPolicy: Always
         resources:
